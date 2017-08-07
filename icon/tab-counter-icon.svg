@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg2" viewBox="0 0 128 128" height="128" width="128">
+  <defs id="defs4">
+    <linearGradient osb:paint="solid" id="linearGradient4282">
+      <stop id="stop4284" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient osb:paint="solid" id="linearGradient4276">
+      <stop id="stop4278" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient osb:paint="solid" id="linearGradient4270">
+      <stop id="stop4272" offset="0" style="stop-color:#908b8b;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient osb:paint="gradient" id="linearGradient4246">
+      <stop id="stop4248" offset="0" style="stop-color:#00d32c;stop-opacity:1;"/>
+      <stop id="stop4250" offset="1" style="stop-color:#00d32c;stop-opacity:0;"/>
+    </linearGradient>
+    <linearGradient osb:paint="solid" id="linearGradient4150">
+      <stop id="stop4152" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient osb:paint="solid" id="linearGradient4142">
+      <stop id="stop4144" offset="0" style="stop-color:#ff7400;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(1.0000879,0,0,0.98998823,0.85991757,11.421851)" gradientUnits="userSpaceOnUse" y2="990.61662" x2="120.70307" y1="990.61662" x1="5.5659914" id="linearGradient4146" xlink:href="#linearGradient4142"/>
+    <linearGradient gradientTransform="matrix(1,0,0,1.115027,0,-107.13175)" gradientUnits="userSpaceOnUse" y2="934.6554" x2="86" y1="934.6554" x1="67" id="linearGradient4254" xlink:href="#linearGradient4142"/>
+    <linearGradient gradientUnits="userSpaceOnUse" y2="988.36217" x2="126.35661" y1="988.36217" x1="1.6433868" id="linearGradient4274" xlink:href="#linearGradient4270"/>
+    <linearGradient y2="995.71948" x2="112.86871" y1="995.71948" x1="14.748705" gradientUnits="userSpaceOnUse" id="linearGradient4294" xlink:href="#linearGradient4270"/>
+    <linearGradient y2="995.71948" x2="112.86871" y1="995.71948" x1="14.748705" gradientUnits="userSpaceOnUse" id="linearGradient4296" xlink:href="#linearGradient4270"/>
+  </defs>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(0,-924.36216)" id="layer1">
+    <rect y="928.00555" x="3.6433868" height="120.71323" width="120.71323" id="rect3338" style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4274);stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="939.49359" x="7.4264865" height="105.25412" width="113.14703" id="rect4140" style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4146);stroke-width:1.99005055;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="931.36218" x="7" height="6.5864077" width="19" id="rect4148-7-3" style="opacity:1;fill:#00d32c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="931.36218" x="27" height="6.5864077" width="19" id="rect4148-7-3-5" style="opacity:1;fill:#0084d3;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="931.36218" x="47" height="6.5864077" width="19" id="rect4148-7-3-6" style="opacity:1;fill:#ff2b3a;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="931.36218" x="67" height="7.3440223" width="19" id="rect4148-7-3-2" style="opacity:1;fill:url(#linearGradient4254);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <rect y="931.36218" x="87" height="6.5864077" width="19" id="rect4148-7-3-9" style="opacity:1;fill:#c8d300;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+    <g id="flowRoot4256" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:143.24484253px;line-height:125%;font-family:'TeX Gyre Bonum';-inkscape-font-specification:'TeX Gyre Bonum';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4296);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="matrix(0.92576916,0,0,0.92576916,1.6125756,57.07245)">
+      <path id="path4377" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Bonum';-inkscape-font-specification:'TeX Gyre Bonum';fill:url(#linearGradient4294);fill-opacity:1;stroke:none;stroke-opacity:1" d="m 121.24989,1008.1236 c 0,-14.89749 -12.03257,-27.21655 -26.930032,-27.21655 -11.746077,0 -20.627257,8.88118 -28.362478,18.47858 -6.732508,-9.5974 -13.751505,-18.47858 -25.497582,-18.47858 -14.897464,0 -26.930031,12.31906 -26.930031,27.21655 0,15.0407 12.032567,27.2165 26.930031,27.2165 11.746077,0 20.627257,-8.7379 28.362478,-18.3354 6.732508,9.5975 13.751505,18.3354 25.497582,18.3354 14.897462,0 26.930032,-12.1758 26.930032,-27.2165 z m -60.59257,-2.1487 c -6.875752,8.4514 -13.03528,15.7569 -20.197522,15.7569 -12.605547,0 -20.054278,-2.2919 -20.054278,-13.6082 0,-8.88121 10.027139,-13.60829 20.054278,-13.60829 8.737935,0 14.897463,5.01357 20.197522,11.45959 z m 53.71682,2.1487 c 0,9.0244 -10.02714,13.6082 -20.054282,13.6082 -8.737935,0 -14.897463,-4.8703 -20.197522,-11.3163 6.875752,-8.4515 13.03528,-15.90019 20.197522,-15.90019 12.605542,0 20.054282,2.43516 20.054282,13.60829 z"/>
+    </g>
+  </g>
+</svg>

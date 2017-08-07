@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Sum Tabs",
+  "version": "1.0",
+
+  "description": "Adds a button with the number of tabs to your toolbar",
+
+  "icons": {
+    "128": "icon/tab-counter-icon.svg"
+  },
+
+  "browser_action": {
+    "default_icon": "icon/tab-counter-icon.svg",
+    "default_popup": "popup/tab_counter.html"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": ["tabs"]
+}
