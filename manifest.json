@@ -12,7 +12,7 @@
 
   "browser_action": {
     "default_icon": "icon/sum-tabs-icon.svg",
-    "default_popup": "popup/tab_counter.html"
+    "default_popup": "popup/sum_tabs.html"
   },
 
   "background": {
