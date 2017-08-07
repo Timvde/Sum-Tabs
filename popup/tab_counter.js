@@ -1,6 +1,6 @@
 function handleResponse(msg) {
-  document.getElementById("current-window").innerHTML = msg.currentWindow;
-  document.getElementById("all-windows").innerHTML = msg.allWindows;
+  document.getElementById("current-window").innerText = msg.currentWindow;
+  document.getElementById("all-windows").innerText = msg.allWindows;
 }
 
 function handleError(error) {
