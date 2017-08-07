@@ -4,6 +4,8 @@
   "name": "Sum Tabs",
   "version": "1.0",
 
+  "default_locale": "en",
+
   "description": "Adds a button with the number of tabs to your toolbar",
 
   "icons": {

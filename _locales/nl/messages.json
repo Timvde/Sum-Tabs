@@ -1,0 +1,10 @@
+{
+  "currentWindow": {
+    "message": "Huidige venster",
+    "description": "Current window"
+  },
+  "allWindows": {
+    "message": "Alle vensters",
+    "description": "All windows"
+  }
+}

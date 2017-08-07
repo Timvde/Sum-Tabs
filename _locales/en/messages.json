@@ -1,0 +1,10 @@
+{
+  "currentWindow": {
+    "message": "Current window",
+    "description": "Current window"
+  },
+  "allWindows": {
+    "message": "All windows",
+    "description": "All windows"
+  }
+}
