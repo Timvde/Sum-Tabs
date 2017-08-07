@@ -7,11 +7,11 @@
   "description": "Adds a button with the number of tabs to your toolbar",
 
   "icons": {
-    "128": "icon/tab-counter-icon.svg"
+    "128": "icon/sum-tabs-icon.svg"
   },
 
   "browser_action": {
-    "default_icon": "icon/tab-counter-icon.svg",
+    "default_icon": "icon/sum-tabs-icon.svg",
     "default_popup": "popup/tab_counter.html"
   },
 
